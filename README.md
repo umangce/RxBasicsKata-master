@@ -1,2 +1,2 @@
-## Blog post
-See my blog post at Medium for more details: https://medium.com/@sergii.
+## RxJava's coding challenge
+Solution of RxJava's coding challenge which is posted on: https://medium.com/@sergii.
